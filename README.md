@@ -1,25 +1,52 @@
-# 📊 Sales Dashboard Project
+# \# Sales Dashboard (Python)
 
-## 🔹 Description
-This project is a sales dashboard built using Python.
+# 
 
-## 🔹 Tools Used
-- Python
-- Pandas
-- Matplotlib / Plotly
-- Excel Dataset
+# \## 📊 Overview
 
-## 🔹 Features
-- Sales analysis
-- Data visualization
-- Interactive dashboard in browser
+# This project is a Sales Dashboard built using Python to analyze sales data and visualize insights.
 
-## 🔹 How to Run
-1. Install requirements:
-   pip install -r requirements.txt
+# 
 
-2. Run the project:
-   python dashboard.py
+# \## 🛠 Tools \& Technologies
 
-## 🔹 Author
-Karthikeya
+# \- Python
+
+# \- Pandas
+
+# \- Matplotlib / Plotly
+
+# \- Dash / Streamlit
+
+# 
+
+# \## 📁 Dataset
+
+# The dataset contains 2000 rows of sales data including date, region, product, and revenue.
+
+# 
+
+# \## 🚀 How to Run
+
+# 1\. Install required libraries:
+
+# &#x20;  pip install pandas matplotlib dash
+
+# 
+
+# 2\. Run the script:
+
+# &#x20;  python dashboard.py
+
+# 
+
+# \## 📸 Output
+
+# (Add screenshots here)
+
+# 
+
+# \## 🔗 Project Link
+
+# (Add deployed link if available)
+
