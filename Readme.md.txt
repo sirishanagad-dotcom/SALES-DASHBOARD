@@ -1,3 +1,5 @@
+🚀 Live Dashboard (optional after deploy)
+📊 Built by Naga Sirisha D
 # 📊 Advanced Sales Dashboard
 
 This is an interactive business dashboard built using Streamlit, Pandas, and Plotly.
