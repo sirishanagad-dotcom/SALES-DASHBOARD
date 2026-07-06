@@ -9,9 +9,9 @@ st.title("📊 Advanced Sales Dashboard")
 # ------------------------
 # 📂 LOAD DATA
 # ------------------------
-sales_file = "D:/SALESDATASET/SalesDataset.xlsx"
-customer_file = "D:/SALESDATASET/CustomerDataset.xlsx"
-product_file = "D:/SALESDATASET/ProductDataset.xlsx"
+sales_file = "SalesDataset.xlsx"
+customer_file = "CustomerDataset.xlsx"
+product_file = "ProductDataset.xlsx"
 
 sales = pd.read_excel(sales_file, sheet_name="Sheet1")
 customers = pd.read_excel(customer_file, sheet_name="Sheet1")
