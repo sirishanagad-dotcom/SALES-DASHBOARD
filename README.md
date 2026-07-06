@@ -40,12 +40,9 @@
 
 # 
 
-# \## 📸 Output
+# \## 📸 Output  !\[Sales Dashboard](dashboard.png)
 
-# (Add screenshots here)
+# \## Deploy link: https://sales-dashboard-reports.streamlit.app/
 
-# 
+"test update"
 
-# \## 🔗 https://sales-dashboard-reports.streamlit.app/
-
-"test update" 
